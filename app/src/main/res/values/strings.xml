@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="liste">
+        <item> Java </item>
+        <item> C# </item>
+        <item> Android </item>
+        <item> Python </item>
+        <item> Django </item>
+        <item> Symfony </item>
+        <item> Pascal </item>
+        <item> DataBase </item>
+    </string-array>
+</resources>
